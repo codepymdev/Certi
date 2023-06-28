@@ -1,0 +1,41 @@
+{
+    "cookie": {
+        "normal": "cookie_normal_85b363ccb1c6dd031e58d1ff32cf246c"
+    },
+    "dancing_script": {
+        "normal": "dancing_script_normal_3875d61f1ab1b1ceb658c39421f4c085"
+    },
+    "titan_one": {
+        "normal": "titan_one_normal_c9282fd916503cb913175829c6a5b919"
+    },
+    "isabella": {
+        "normal": "isabella_normal_92efb943f3aecc162943a554ab17a0b4"
+    },
+    "georgia": {
+        "normal": "georgia_normal_a79ac8409a4da72cce0f04069b076e00"
+    },
+    "lora-bold": {
+        "normal": "lora_bold_normal_71ec1540f9e707e489acf7cc2eacc4b5"
+    },
+    "lora-regular": {
+        "normal": "lora_regular_normal_0c2ce2009c310f86e8f220f206082ecb"
+    },
+    "myriad-pro-bold": {
+        "normal": "myriad_pro_bold_normal_0bf06a417cd2e253406d2d2c00e3a25a"
+    },
+    "noto sans": {
+        "normal": "noto_sans_normal_554b8e5df7477bea89da66d03a773faf"
+    },
+    "amiri": {
+        "normal": "amiri_normal_b1698c38b92ac57a6621cfaad4293641"
+    },
+    "dancing script": {
+        "bold": "dancing_script_bold_8fee20a8061514c9ddf696653da3bf36"
+    },
+    "titan one": {
+        "normal": "titan_one_normal_055ad24dbca8cb966798683f2ed9d9a8"
+    },
+    "abeezee": {
+        "normal": "abeezee_normal_f983a7ce67dbdfd2d95c71c58bc71439"
+    }
+}
