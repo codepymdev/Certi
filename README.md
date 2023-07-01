@@ -19,3 +19,8 @@ Certi typically includes features that allow for customization of the certificat
 - In the .env file, update the necessary information to allow connection to a database
 - Run the command *php artisan migrate*
 
+### How to contribute
+
+Here are some ways of contributing to making Grad better:
+
+- Send a pull request to any of our [open source repositories](https://github.com/codepymdev) on GitHub. Check the contribution guide on the repo you want to contribute to for more details about how to contribute. We're looking forward to your contribution!
